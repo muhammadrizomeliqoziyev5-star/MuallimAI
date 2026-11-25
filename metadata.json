@@ -1,0 +1,6 @@
+{
+  "name": "Muallim Studio",
+  "description": "O'qituvchilar uchun aqlli dars konstruktori: taqdimot slaydlari, uyga vazifalar, pedagogik metodikalar, testlar va interaktiv o'yinlar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
